@@ -1,7 +1,7 @@
-- 👋 Hi, I’m JB
+- 👋 Hi, I’m Johns Baby
 - 👀 I’m interested in Android, Cloud and AI
 - 🌱 I’m currently learning AWS and GCP
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android projects
 - 📫 Get in touch with me on https://www.linkedin.com/in/johns-baby/
 
 <!---
