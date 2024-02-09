@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Johns Baby
-- 👀 I’m interested in Android, Cloud and AI
-- 🌱 I’m currently learning AWS and GCP
-- 💞️ I’m looking to collaborate on Android projects
+- 🏢 I'm an Automations and Analytics Engineer at Quantiphi
+- 👀 I’m interested in Data Analysis, AI and ML
+- 🌱 I’m currently learning GCP
 - 📫 Get in touch with me on https://www.linkedin.com/in/johns-baby/
 
 <!---
